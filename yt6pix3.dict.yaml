@@ -1,0 +1,19 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# yt6pix3 - 粵拼詞庫
+#
+# Source: https://github.com/CanCLID/rime-cantonese-upstream
+
+---
+name: yt6pix3
+version: "2022.03.17"
+sort: by_weight
+vocabulary: essay-cantonese
+import_tables:
+  - yt6pix3.chars
+  - yt6pix3.words
+  - yt6pix3.phrase
+  - yt6pix3.lettered
+  - yt6pix3.maps
+...
