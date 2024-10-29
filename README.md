@@ -28,10 +28,19 @@
 
 跟住落嚟安裝步驟就完成了，你可以開始使用簡單粵拼輸入法打字
 
-如果你仲想用小狼毫輸入法打其他語言，請你唔好下載default.custom 文件，而係响用户文件夾user folder入面本來嘅 default.custom入面嘅下邊添埋一句
+如果你仲想用小狼毫輸入法打其他語言，請你唔好下載default.custom 文件
+
+![Screenshot 2024-10-29 160354](https://github.com/user-attachments/assets/5c8c1c38-d266-4f1e-be61-65b16bd71058)
+
+
+而係响用户文件夾user folder入面本來嘅 default.custom入面嘅schema_list下邊添埋一句
 
     - {schema: yt6pix3}
     
+
+![Screenshot 2024-10-29 160518](https://github.com/user-attachments/assets/21ae90f0-b77c-434a-9386-af68e49001e6)
+
+
 跟住重新部署Deploy 
 
 同時撳住 control鍵 同埋 `鍵，即係ESC下邊個個鍵，用數字鍵選擇你想使用嘅輸入法
