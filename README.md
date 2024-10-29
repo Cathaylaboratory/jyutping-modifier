@@ -28,7 +28,7 @@
 
 跟住落嚟安裝步驟就完成了，你可以開始使用簡單粵拼輸入法打字
 
-如果你仲想用小狼毫輸入法打其他語言，請你唔好下載default.custom 文件
+# 如果你仲想用小狼毫輸入法打其他語言，請你唔好下載default.custom 文件
 
 ![Screenshot 2024-10-29 160354](https://github.com/user-attachments/assets/5c8c1c38-d266-4f1e-be61-65b16bd71058)
 
