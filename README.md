@@ -20,6 +20,9 @@
 
 第四步 右鍵 中 字，選擇 重新部署Deploy, 跟住落嚟請你等待十秒鐘
 
+![Screenshot 2024-10-29 092752](https://github.com/user-attachments/assets/3f7100c8-fb5e-4adc-9ba3-e49b96247a6c)
+
+
 跟住落嚟安裝步驟就完成了，你可以開始使用簡單粵拼輸入法打字
 
 如果你仲想用小狼毫輸入法打其他語言，請你唔好下載default.custom 文件，而係响用户文件夾user folder入面本來嘅 default.custom入面嘅下邊添埋一句
@@ -105,7 +108,8 @@ aang > ang，ang同aang兩個音難以分辨到
 
 # 簡單粵拼鍵盤可視化 漢字切音版本 
 
-![Screenshot 2024-10-29 092451](https://github.com/user-attachments/assets/80ed72db-0019-425c-98d7-47ab2788258f)
+![Screenshot 2024-10-29 092451](https://github.com/user-attachments/assets/d3c7e8eb-3e4e-4d53-b596-8d3374d03671)
+
 
 
 呢張圖係為咗方便原本冇粵拼基礎嘅朋友記憶
