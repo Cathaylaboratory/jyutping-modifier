@@ -64,11 +64,11 @@ aang > ang，ang同aang兩個音難以分辨到
 即係一個粵語字由 韻首 韻腹 韻尾 同音調組成。
 當然，你依然可以使用標準嘅粵語拼音响呢個輸入法入面打字
 
-#簡單粵拼鍵盤可視化 粵拼版本
+# 簡單粵拼鍵盤可視化 粵拼版本
 
-![Screenshot 2024-10-29 084825](https://github.com/user-attachments/assets/530f13b8-add6-45dd-8d39-f0aef48372d6
+![Screenshot 2024-10-29 084825](https://github.com/user-attachments/assets/530f13b8-add6-45dd-8d39-f0aef48372d6)
 
-#簡單粵拼鍵盤可視化 漢字切音版本 
+# 簡單粵拼鍵盤可視化 漢字切音版本 
 
 ![Screenshot 2024-10-29 085109](https://github.com/user-attachments/assets/97624878-b03e-4aef-91c9-2c274af93785)
 
