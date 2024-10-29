@@ -33,7 +33,7 @@
 ![Screenshot 2024-10-29 160354](https://github.com/user-attachments/assets/5c8c1c38-d266-4f1e-be61-65b16bd71058)
 
 
-而係响用户文件夾user folder入面本來嘅 default.custom入面嘅schema_list下邊添埋一句
+請你响用户文件夾user folder入面本來嘅 default.custom入面嘅schema_list下邊添埋一句
 
     - {schema: yt6pix3}
     
