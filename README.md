@@ -18,6 +18,9 @@
 
 第三部 將呢個github主頁入面所有關於呢個嘅輸入法嘅文件下載落嚟，跟住複製入用户文件夾user folder
 
+![Screenshot 2024-10-29 160222](https://github.com/user-attachments/assets/581e5470-df60-4f17-9ea3-ea6b8f3f0915)
+
+
 第四步 右鍵 中 字，選擇 重新部署Deploy, 跟住落嚟請你等待十秒鐘
 
 ![Screenshot 2024-10-29 092752](https://github.com/user-attachments/assets/3f7100c8-fb5e-4adc-9ba3-e49b96247a6c)
