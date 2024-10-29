@@ -11,8 +11,7 @@
 
 請右鍵 中 字
 
-![Screenshot 2024-10-29 092752](https://github.com/user-attachments/assets/a62b7679-d2ba-4509-8568-cdd108785c36)
-
+![Screenshot 2024-10-29 092752](https://github.com/user-attachments/assets/7d4df1f5-664a-4889-aea3-8a393d11b595)
 
 跟住落嚟撳 user folder或者用户文件夾
 
