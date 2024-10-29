@@ -96,7 +96,7 @@ speller:
     - derive/^n(?!g)/l/
 
     # 取消下行註釋，支援圓唇輔音合口韻缺位： gw-, kw- 併入 g-, k- ，如「國」讀若「各」、「廓」讀若「確」
-    - derive/^(g|k)w/$1/
+    # - derive/^(g|k)w/$1/
 
     # 取消下行註釋，支援獨立鼻音韻 ng 併入 m，如「吳」讀若「唔」
     #- derive/^ng([123456])$/m$1/
@@ -131,11 +131,10 @@ speller:
     - derive/wui$/wi/
     - derive/eot$/ut/
     - derive/^jiu/ju/
-    - derive/^jiu/jw/
     - derive/^jiu/iu/
-    - derive/^wui/wj/
     - derive/k$/t/
     - derive/ang$/an/
+    - derive/^gwo/go/
     # Cantoboard
     - derive/aa/r/ 
     - derive/^ng/x/
