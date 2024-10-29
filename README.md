@@ -127,5 +127,36 @@ aang > ang，ang同aang兩個音難以分辨到
 
 呢張圖係為咗方便原本冇粵拼基礎嘅朋友記憶
 
+# 手機入面點安裝
+
+方法一 
+
+喺App store 下載cantoboard 輸入法
+
+![Screenshot 2024-10-29 164328](https://github.com/user-attachments/assets/148f54fb-be0d-4f99-b875-c8cd980da910)
+
+打開鍵盤，右上角揀 耶魯/劉錫祥
+
+![IMG_3292](https://github.com/user-attachments/assets/023280ae-2d33-4750-b2fe-8448e3764408)
+
+
+Cantoboard耶魯/劉錫祥 入面嘅好多簡單拼寫同模糊音嘅規則係同我呢個輸入法係一樣嘅
+
+方法二
+
+喺IOS系統入面下載倉輸入法
+
+https://apps.apple.com/cn/app/%E4%BB%93%E8%BE%93%E5%85%A5%E6%B3%95/id6446617683
+
+將成個簡單粵拼輸入法嘅所有文件做埋一個壓縮文件
+
+跟住落嚟保存呢個壓縮文件喺IOS手機嘅檔案file入面
+
+使用hamster輸入法導入呢個壓縮文件
+
+跟住重新部署倉輸入法
+
+
+
 
 
