@@ -22,8 +22,7 @@
 
 第四步 右鍵 中 字，選擇 重新部署Deploy, 跟住落嚟請你等待十秒鐘
 
-![Screenshot 2024-10-29 092752](https://github.com/user-attachments/assets/3f7100c8-fb5e-4adc-9ba3-e49b96247a6c)
-
+![381206008-3f7100c8-fb5e-4adc-9ba3-e49b96247a6c](https://github.com/user-attachments/assets/6e7c17f1-7422-4f3e-9af0-d69f7e1b4258)
 
 跟住落嚟安裝步驟就完成了，你可以開始使用簡單粵拼輸入法打字
 
@@ -40,7 +39,10 @@
 ![Screenshot 2024-10-29 160518](https://github.com/user-attachments/assets/21ae90f0-b77c-434a-9386-af68e49001e6)
 
 
-跟住重新部署Deploy 
+跟住撳重新部署Deploy 
+
+![381206008-3f7100c8-fb5e-4adc-9ba3-e49b96247a6c](https://github.com/user-attachments/assets/0210f4d8-1e2c-4b33-b193-6423f4f72e44)
+
 
 同時撳住 control鍵 同埋 `鍵，即係ESC下邊個個鍵，用數字鍵選擇你想使用嘅輸入法
 
