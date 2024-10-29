@@ -102,7 +102,7 @@ aang > ang，ang同aang兩個音難以分辨到
 
 # 簡單粵拼鍵盤可視化 漢字切音版本 
 
-![Screenshot 2024-10-29 085109](https://github.com/user-attachments/assets/97624878-b03e-4aef-91c9-2c274af93785)
+![Screenshot 2024-10-29 092451](https://github.com/user-attachments/assets/80ed72db-0019-425c-98d7-47ab2788258f)
 
 
 呢張圖係為咗方便原本冇粵拼基礎嘅朋友記憶
